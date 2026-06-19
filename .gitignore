@@ -1,0 +1,4 @@
+# Never publish the plaintext source or build inputs — only the encrypted index.html ships.
+onepager.html
+gate-template-ovh.html
+.staticrypt.json
